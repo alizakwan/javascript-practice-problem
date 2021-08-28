@@ -8,3 +8,4 @@ Solution to the problems
 4. [Write a program that asks the user for a number n and prints the sum of the numbers 1 to n](solutions/problem4.js)
 5. [Write a program that ask user for his age and prints whether he is eligibal for voting ](solutions/problem5.js)
 6. [Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.](solutions/problem6.js)
+7. [Write a program that prints a multiplication table for numbers up to 12.](solutions/problem7.js)
