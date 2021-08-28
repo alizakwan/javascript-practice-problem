@@ -1,0 +1,22 @@
+{
+  "name": "javascript-simple-problems",
+  "version": "1.0.0",
+  "description": "Javascript practice problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alizakwan/javascript-practice-problem.git"
+  },
+  "author": "ali zakwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alizakwan/javascript-practice-problem/issues"
+  },
+  "homepage": "https://github.com/alizakwan/javascript-practice-problem#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
