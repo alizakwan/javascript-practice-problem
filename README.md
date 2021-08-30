@@ -9,3 +9,4 @@
 5. [Write a program that ask user for his age and prints whether he is eligibal for voting ](solutions/problem5.js)
 6. [Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.](solutions/problem6.js)
 7. [Write a program that prints a multiplication table for numbers up to 12.](solutions/problem7.js)
+8. [Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17](solutions/problem8.js)
